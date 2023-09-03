@@ -1,0 +1,2624 @@
+[
+    {
+        "clock": 1693873028,
+        "data": {
+            "Timestamp": 1693873028,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693873028,
+        "data": {
+            "Timestamp": 1693873028,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 96
+        }
+    },
+    {
+        "clock": 1693873028,
+        "data": {
+            "Timestamp": 1693873028,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1385,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693873028,
+        "data": {
+            "Timestamp": 1693873028,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2185,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693873028,
+        "data": {
+            "Timestamp": 1693873028,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 247,
+            "DirectionMax": 247
+        }
+    },
+    {
+        "clock": 1693873028,
+        "data": {
+            "Timestamp": 1693873028,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693873028,
+        "data": {
+            "Timestamp": 1693873028,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693876643,
+        "data": {
+            "Timestamp": 1693876642,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693876643,
+        "data": {
+            "Timestamp": 1693876643,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 96
+        }
+    },
+    {
+        "clock": 1693876643,
+        "data": {
+            "Timestamp": 1693876643,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1385,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693876643,
+        "data": {
+            "Timestamp": 1693876643,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2185,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693876643,
+        "data": {
+            "Timestamp": 1693876643,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 241,
+            "DirectionMax": 241
+        }
+    },
+    {
+        "clock": 1693876643,
+        "data": {
+            "Timestamp": 1693876643,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693876643,
+        "data": {
+            "Timestamp": 1693876643,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693883876,
+        "data": {
+            "Timestamp": 1693883876,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693883876,
+        "data": {
+            "Timestamp": 1693883876,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 95
+        }
+    },
+    {
+        "clock": 1693883876,
+        "data": {
+            "Timestamp": 1693883876,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1585,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693883876,
+        "data": {
+            "Timestamp": 1693883876,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2235,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693883876,
+        "data": {
+            "Timestamp": 1693883876,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 0,
+            "DirectionMax": 0
+        }
+    },
+    {
+        "clock": 1693883876,
+        "data": {
+            "Timestamp": 1693883876,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693883876,
+        "data": {
+            "Timestamp": 1693883876,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693889372,
+        "data": {
+            "Timestamp": 1693889372,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693889372,
+        "data": {
+            "Timestamp": 1693889372,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 93
+        }
+    },
+    {
+        "clock": 1693889372,
+        "data": {
+            "Timestamp": 1693889372,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1785,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693889372,
+        "data": {
+            "Timestamp": 1693889372,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2235,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693889372,
+        "data": {
+            "Timestamp": 1693889372,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 11,
+            "DirectionMax": 11
+        }
+    },
+    {
+        "clock": 1693889372,
+        "data": {
+            "Timestamp": 1693889372,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693889372,
+        "data": {
+            "Timestamp": 1693889372,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693891279,
+        "data": {
+            "Timestamp": 1693891279,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693891279,
+        "data": {
+            "Timestamp": 1693891279,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 91
+        }
+    },
+    {
+        "clock": 1693891279,
+        "data": {
+            "Timestamp": 1693891279,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1985,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693891279,
+        "data": {
+            "Timestamp": 1693891279,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2235,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693891279,
+        "data": {
+            "Timestamp": 1693891279,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 21,
+            "DirectionMax": 21
+        }
+    },
+    {
+        "clock": 1693891279,
+        "data": {
+            "Timestamp": 1693891279,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693891279,
+        "data": {
+            "Timestamp": 1693891279,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693893084,
+        "data": {
+            "Timestamp": 1693893084,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693893084,
+        "data": {
+            "Timestamp": 1693893084,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 91
+        }
+    },
+    {
+        "clock": 1693893084,
+        "data": {
+            "Timestamp": 1693893084,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1985,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693893084,
+        "data": {
+            "Timestamp": 1693893084,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2235,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693893084,
+        "data": {
+            "Timestamp": 1693893084,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 21,
+            "DirectionMax": 21
+        }
+    },
+    {
+        "clock": 1693893084,
+        "data": {
+            "Timestamp": 1693893084,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693893084,
+        "data": {
+            "Timestamp": 1693893084,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693895511,
+        "data": {
+            "Timestamp": 1693895511,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693895511,
+        "data": {
+            "Timestamp": 1693895511,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 89
+        }
+    },
+    {
+        "clock": 1693895511,
+        "data": {
+            "Timestamp": 1693895511,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 2185,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693895511,
+        "data": {
+            "Timestamp": 1693895511,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2235,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693895511,
+        "data": {
+            "Timestamp": 1693895511,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 41,
+            "DirectionMax": 41
+        }
+    },
+    {
+        "clock": 1693895511,
+        "data": {
+            "Timestamp": 1693895511,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693895511,
+        "data": {
+            "Timestamp": 1693895511,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693902879,
+        "data": {
+            "Timestamp": 1693902879,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693902879,
+        "data": {
+            "Timestamp": 1693902879,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 84
+        }
+    },
+    {
+        "clock": 1693902879,
+        "data": {
+            "Timestamp": 1693902879,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 2585,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693902879,
+        "data": {
+            "Timestamp": 1693902879,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2235,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693902879,
+        "data": {
+            "Timestamp": 1693902879,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 31,
+            "DirectionMax": 31
+        }
+    },
+    {
+        "clock": 1693902879,
+        "data": {
+            "Timestamp": 1693902879,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 5,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693902879,
+        "data": {
+            "Timestamp": 1693902879,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 50
+        }
+    },
+    {
+        "clock": 1693906210,
+        "data": {
+            "Timestamp": 1693906210,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693906210,
+        "data": {
+            "Timestamp": 1693906210,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 83
+        }
+    },
+    {
+        "clock": 1693906210,
+        "data": {
+            "Timestamp": 1693906210,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 2785,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693906210,
+        "data": {
+            "Timestamp": 1693906210,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2235,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693906210,
+        "data": {
+            "Timestamp": 1693906210,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 32,
+            "DirectionMax": 32
+        }
+    },
+    {
+        "clock": 1693906210,
+        "data": {
+            "Timestamp": 1693906210,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 5,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693906210,
+        "data": {
+            "Timestamp": 1693906210,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 50
+        }
+    },
+    {
+        "clock": 1693918470,
+        "data": {
+            "Timestamp": 1693918470,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693918470,
+        "data": {
+            "Timestamp": 1693918470,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 80
+        }
+    },
+    {
+        "clock": 1693918470,
+        "data": {
+            "Timestamp": 1693918470,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 2885,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693918470,
+        "data": {
+            "Timestamp": 1693918470,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2185,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693918470,
+        "data": {
+            "Timestamp": 1693918470,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 3,
+            "SpeedMax": 3,
+            "DirectionMin": 24,
+            "DirectionMax": 24
+        }
+    },
+    {
+        "clock": 1693918470,
+        "data": {
+            "Timestamp": 1693918470,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 5,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693918470,
+        "data": {
+            "Timestamp": 1693918470,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 50
+        }
+    },
+    {
+        "clock": 1693920358,
+        "data": {
+            "Timestamp": 1693920358,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693920358,
+        "data": {
+            "Timestamp": 1693920358,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 81
+        }
+    },
+    {
+        "clock": 1693920358,
+        "data": {
+            "Timestamp": 1693920358,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 2885,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693920358,
+        "data": {
+            "Timestamp": 1693920358,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2185,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693920358,
+        "data": {
+            "Timestamp": 1693920358,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 3,
+            "SpeedMax": 3,
+            "DirectionMin": 27,
+            "DirectionMax": 27
+        }
+    },
+    {
+        "clock": 1693920358,
+        "data": {
+            "Timestamp": 1693920358,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 5,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693920358,
+        "data": {
+            "Timestamp": 1693920358,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 50
+        }
+    },
+    {
+        "clock": 1693922283,
+        "data": {
+            "Timestamp": 1693922283,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693922283,
+        "data": {
+            "Timestamp": 1693922283,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 81
+        }
+    },
+    {
+        "clock": 1693922283,
+        "data": {
+            "Timestamp": 1693922283,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 2885,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693922283,
+        "data": {
+            "Timestamp": 1693922283,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2185,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693922283,
+        "data": {
+            "Timestamp": 1693922283,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 3,
+            "SpeedMax": 3,
+            "DirectionMin": 27,
+            "DirectionMax": 27
+        }
+    },
+    {
+        "clock": 1693922283,
+        "data": {
+            "Timestamp": 1693922283,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 5,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693922283,
+        "data": {
+            "Timestamp": 1693922283,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 50
+        }
+    },
+    {
+        "clock": 1693924469,
+        "data": {
+            "Timestamp": 1693924469,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693924469,
+        "data": {
+            "Timestamp": 1693924469,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 83
+        }
+    },
+    {
+        "clock": 1693924469,
+        "data": {
+            "Timestamp": 1693924469,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 2785,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693924469,
+        "data": {
+            "Timestamp": 1693924469,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2135,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693924469,
+        "data": {
+            "Timestamp": 1693924469,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 3,
+            "SpeedMax": 3,
+            "DirectionMin": 28,
+            "DirectionMax": 28
+        }
+    },
+    {
+        "clock": 1693924469,
+        "data": {
+            "Timestamp": 1693924469,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693924469,
+        "data": {
+            "Timestamp": 1693924469,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693926814,
+        "data": {
+            "Timestamp": 1693926814,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693926814,
+        "data": {
+            "Timestamp": 1693926814,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 89
+        }
+    },
+    {
+        "clock": 1693926814,
+        "data": {
+            "Timestamp": 1693926814,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 2285,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693926814,
+        "data": {
+            "Timestamp": 1693926814,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 1885,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693926814,
+        "data": {
+            "Timestamp": 1693926814,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 2,
+            "SpeedMax": 2,
+            "DirectionMin": 19,
+            "DirectionMax": 19
+        }
+    },
+    {
+        "clock": 1693926814,
+        "data": {
+            "Timestamp": 1693926814,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693926814,
+        "data": {
+            "Timestamp": 1693926814,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693937321,
+        "data": {
+            "Timestamp": 1693937321,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693937321,
+        "data": {
+            "Timestamp": 1693937321,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 94
+        }
+    },
+    {
+        "clock": 1693937321,
+        "data": {
+            "Timestamp": 1693937321,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1885,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693937321,
+        "data": {
+            "Timestamp": 1693937321,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 1685,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693937321,
+        "data": {
+            "Timestamp": 1693937321,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 232,
+            "DirectionMax": 232
+        }
+    },
+    {
+        "clock": 1693937321,
+        "data": {
+            "Timestamp": 1693937321,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693937321,
+        "data": {
+            "Timestamp": 1693937321,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693940086,
+        "data": {
+            "Timestamp": 1693940086,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693940086,
+        "data": {
+            "Timestamp": 1693940086,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 94
+        }
+    },
+    {
+        "clock": 1693940086,
+        "data": {
+            "Timestamp": 1693940086,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1885,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693940086,
+        "data": {
+            "Timestamp": 1693940086,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 1685,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693940086,
+        "data": {
+            "Timestamp": 1693940086,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 232,
+            "DirectionMax": 232
+        }
+    },
+    {
+        "clock": 1693940086,
+        "data": {
+            "Timestamp": 1693940086,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693940086,
+        "data": {
+            "Timestamp": 1693940086,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693944301,
+        "data": {
+            "Timestamp": 1693944301,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693944301,
+        "data": {
+            "Timestamp": 1693944301,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 97
+        }
+    },
+    {
+        "clock": 1693944301,
+        "data": {
+            "Timestamp": 1693944301,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1585,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693944301,
+        "data": {
+            "Timestamp": 1693944301,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 1535,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693944301,
+        "data": {
+            "Timestamp": 1693944301,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 199,
+            "DirectionMax": 199
+        }
+    },
+    {
+        "clock": 1693944301,
+        "data": {
+            "Timestamp": 1693944301,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693944301,
+        "data": {
+            "Timestamp": 1693944301,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693944301,
+        "data": {
+            "Timestamp": 1693944301,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693944301,
+        "data": {
+            "Timestamp": 1693944301,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 97
+        }
+    },
+    {
+        "clock": 1693944301,
+        "data": {
+            "Timestamp": 1693944301,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1585,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693944301,
+        "data": {
+            "Timestamp": 1693944301,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 1535,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693944301,
+        "data": {
+            "Timestamp": 1693944301,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 199,
+            "DirectionMax": 199
+        }
+    },
+    {
+        "clock": 1693944301,
+        "data": {
+            "Timestamp": 1693944301,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693944301,
+        "data": {
+            "Timestamp": 1693944301,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693946129,
+        "data": {
+            "Timestamp": 1693946129,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693946129,
+        "data": {
+            "Timestamp": 1693946129,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 97
+        }
+    },
+    {
+        "clock": 1693946129,
+        "data": {
+            "Timestamp": 1693946129,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1585,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693946129,
+        "data": {
+            "Timestamp": 1693946129,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 1535,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693946129,
+        "data": {
+            "Timestamp": 1693946129,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 199,
+            "DirectionMax": 199
+        }
+    },
+    {
+        "clock": 1693946129,
+        "data": {
+            "Timestamp": 1693946129,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693946129,
+        "data": {
+            "Timestamp": 1693946129,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694016052,
+        "data": {
+            "Timestamp": 1694016052,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1694016052,
+        "data": {
+            "Timestamp": 1694016052,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 93
+        }
+    },
+    {
+        "clock": 1694016052,
+        "data": {
+            "Timestamp": 1694016052,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1985,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694016052,
+        "data": {
+            "Timestamp": 1694016052,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 1735,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694016052,
+        "data": {
+            "Timestamp": 1694016052,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 7,
+            "DirectionMax": 7
+        }
+    },
+    {
+        "clock": 1694016052,
+        "data": {
+            "Timestamp": 1694016052,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694016052,
+        "data": {
+            "Timestamp": 1694016052,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694026505,
+        "data": {
+            "Timestamp": 1694026505,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1694026505,
+        "data": {
+            "Timestamp": 1694026505,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 94
+        }
+    },
+    {
+        "clock": 1694026505,
+        "data": {
+            "Timestamp": 1694026505,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1785,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694026505,
+        "data": {
+            "Timestamp": 1694026505,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 1635,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694026505,
+        "data": {
+            "Timestamp": 1694026505,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 232,
+            "DirectionMax": 232
+        }
+    },
+    {
+        "clock": 1694026505,
+        "data": {
+            "Timestamp": 1694026505,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694026505,
+        "data": {
+            "Timestamp": 1694026505,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694028972,
+        "data": {
+            "Timestamp": 1694028972,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1694028972,
+        "data": {
+            "Timestamp": 1694028972,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 95
+        }
+    },
+    {
+        "clock": 1694028972,
+        "data": {
+            "Timestamp": 1694028972,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1685,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694028972,
+        "data": {
+            "Timestamp": 1694028972,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 1585,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694028972,
+        "data": {
+            "Timestamp": 1694028972,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 217,
+            "DirectionMax": 217
+        }
+    },
+    {
+        "clock": 1694028972,
+        "data": {
+            "Timestamp": 1694028972,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694028972,
+        "data": {
+            "Timestamp": 1694028972,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694030773,
+        "data": {
+            "Timestamp": 1694030773,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1694030773,
+        "data": {
+            "Timestamp": 1694030773,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 96
+        }
+    },
+    {
+        "clock": 1694030773,
+        "data": {
+            "Timestamp": 1694030773,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1585,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694030773,
+        "data": {
+            "Timestamp": 1694030773,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 1535,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694030773,
+        "data": {
+            "Timestamp": 1694030773,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 203,
+            "DirectionMax": 203
+        }
+    },
+    {
+        "clock": 1694030773,
+        "data": {
+            "Timestamp": 1694030773,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694030773,
+        "data": {
+            "Timestamp": 1694030773,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694030773,
+        "data": {
+            "Timestamp": 1694030773,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1694030773,
+        "data": {
+            "Timestamp": 1694030773,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 96
+        }
+    },
+    {
+        "clock": 1694030773,
+        "data": {
+            "Timestamp": 1694030773,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1585,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694030773,
+        "data": {
+            "Timestamp": 1694030773,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 1535,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694030773,
+        "data": {
+            "Timestamp": 1694030773,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 203,
+            "DirectionMax": 203
+        }
+    },
+    {
+        "clock": 1694030773,
+        "data": {
+            "Timestamp": 1694030773,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694030773,
+        "data": {
+            "Timestamp": 1694030773,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694032608,
+        "data": {
+            "Timestamp": 1694032608,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1694032608,
+        "data": {
+            "Timestamp": 1694032608,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 96
+        }
+    },
+    {
+        "clock": 1694032608,
+        "data": {
+            "Timestamp": 1694032608,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1585,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694032608,
+        "data": {
+            "Timestamp": 1694032608,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 1535,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694032608,
+        "data": {
+            "Timestamp": 1694032608,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 203,
+            "DirectionMax": 203
+        }
+    },
+    {
+        "clock": 1694032608,
+        "data": {
+            "Timestamp": 1694032608,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694032608,
+        "data": {
+            "Timestamp": 1694032608,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694034778,
+        "data": {
+            "Timestamp": 1694034778,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1694034778,
+        "data": {
+            "Timestamp": 1694034778,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 97
+        }
+    },
+    {
+        "clock": 1694034778,
+        "data": {
+            "Timestamp": 1694034778,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1485,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694034778,
+        "data": {
+            "Timestamp": 1694034778,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2185,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694034778,
+        "data": {
+            "Timestamp": 1694034778,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 202,
+            "DirectionMax": 202
+        }
+    },
+    {
+        "clock": 1694034778,
+        "data": {
+            "Timestamp": 1694034778,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694034778,
+        "data": {
+            "Timestamp": 1694034778,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694036599,
+        "data": {
+            "Timestamp": 1694036599,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1694036599,
+        "data": {
+            "Timestamp": 1694036599,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 97
+        }
+    },
+    {
+        "clock": 1694036599,
+        "data": {
+            "Timestamp": 1694036599,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1485,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694036599,
+        "data": {
+            "Timestamp": 1694036599,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2185,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694036599,
+        "data": {
+            "Timestamp": 1694036599,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 202,
+            "DirectionMax": 202
+        }
+    },
+    {
+        "clock": 1694036599,
+        "data": {
+            "Timestamp": 1694036599,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694036599,
+        "data": {
+            "Timestamp": 1694036599,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693952859,
+        "data": {
+            "Timestamp": 1694039259,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693952859,
+        "data": {
+            "Timestamp": 1694039259,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 98
+        }
+    },
+    {
+        "clock": 1693952859,
+        "data": {
+            "Timestamp": 1694039259,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1385,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693952859,
+        "data": {
+            "Timestamp": 1694039259,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2185,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693952859,
+        "data": {
+            "Timestamp": 1694039259,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 200,
+            "DirectionMax": 200
+        }
+    },
+    {
+        "clock": 1693952859,
+        "data": {
+            "Timestamp": 1694039259,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693952859,
+        "data": {
+            "Timestamp": 1694039259,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693954665,
+        "data": {
+            "Timestamp": 1694041065,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693954665,
+        "data": {
+            "Timestamp": 1694041065,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 98
+        }
+    },
+    {
+        "clock": 1693954665,
+        "data": {
+            "Timestamp": 1694041065,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1385,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693954665,
+        "data": {
+            "Timestamp": 1694041065,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2185,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693954665,
+        "data": {
+            "Timestamp": 1694041065,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 200,
+            "DirectionMax": 200
+        }
+    },
+    {
+        "clock": 1693954665,
+        "data": {
+            "Timestamp": 1694041065,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693954665,
+        "data": {
+            "Timestamp": 1694041065,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693956488,
+        "data": {
+            "Timestamp": 1694042888,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1693956488,
+        "data": {
+            "Timestamp": 1694042888,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 97
+        }
+    },
+    {
+        "clock": 1693956488,
+        "data": {
+            "Timestamp": 1694042888,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1385,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693956488,
+        "data": {
+            "Timestamp": 1694042888,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2185,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1693956488,
+        "data": {
+            "Timestamp": 1694042888,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 195,
+            "DirectionMax": 195
+        }
+    },
+    {
+        "clock": 1693956488,
+        "data": {
+            "Timestamp": 1694042888,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1693956488,
+        "data": {
+            "Timestamp": 1694042888,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694081929,
+        "data": {
+            "Timestamp": 1694081929,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1694081929,
+        "data": {
+            "Timestamp": 1694081929,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 83
+        }
+    },
+    {
+        "clock": 1694081929,
+        "data": {
+            "Timestamp": 1694081929,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 2885,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694081929,
+        "data": {
+            "Timestamp": 1694081929,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2335,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694081929,
+        "data": {
+            "Timestamp": 1694081929,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 14,
+            "DirectionMax": 14
+        }
+    },
+    {
+        "clock": 1694081929,
+        "data": {
+            "Timestamp": 1694081929,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694081929,
+        "data": {
+            "Timestamp": 1694081929,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694114889,
+        "data": {
+            "Timestamp": 1694114889,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1694114889,
+        "data": {
+            "Timestamp": 1694114889,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 96
+        }
+    },
+    {
+        "clock": 1694114889,
+        "data": {
+            "Timestamp": 1694114889,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1885,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694114889,
+        "data": {
+            "Timestamp": 1694114889,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 1785,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694114889,
+        "data": {
+            "Timestamp": 1694114889,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 198,
+            "DirectionMax": 198
+        }
+    },
+    {
+        "clock": 1694114889,
+        "data": {
+            "Timestamp": 1694114889,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694114889,
+        "data": {
+            "Timestamp": 1694114889,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694118932,
+        "data": {
+            "Timestamp": 1694118932,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1694118932,
+        "data": {
+            "Timestamp": 1694118932,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 97
+        }
+    },
+    {
+        "clock": 1694118932,
+        "data": {
+            "Timestamp": 1694118932,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1785,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694118932,
+        "data": {
+            "Timestamp": 1694118932,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 1735,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694118932,
+        "data": {
+            "Timestamp": 1694118932,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 176,
+            "DirectionMax": 176
+        }
+    },
+    {
+        "clock": 1694118932,
+        "data": {
+            "Timestamp": 1694118932,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694118932,
+        "data": {
+            "Timestamp": 1694118932,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694118932,
+        "data": {
+            "Timestamp": 1694118932,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1694118932,
+        "data": {
+            "Timestamp": 1694118932,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 97
+        }
+    },
+    {
+        "clock": 1694118932,
+        "data": {
+            "Timestamp": 1694118932,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1785,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694118932,
+        "data": {
+            "Timestamp": 1694118932,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 1735,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694118932,
+        "data": {
+            "Timestamp": 1694118932,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 176,
+            "DirectionMax": 176
+        }
+    },
+    {
+        "clock": 1694118932,
+        "data": {
+            "Timestamp": 1694118932,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694118932,
+        "data": {
+            "Timestamp": 1694118932,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694120927,
+        "data": {
+            "Timestamp": 1694120927,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1694120927,
+        "data": {
+            "Timestamp": 1694120927,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 98
+        }
+    },
+    {
+        "clock": 1694120927,
+        "data": {
+            "Timestamp": 1694120927,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1685,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694120927,
+        "data": {
+            "Timestamp": 1694120927,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2335,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694120927,
+        "data": {
+            "Timestamp": 1694120927,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 176,
+            "DirectionMax": 176
+        }
+    },
+    {
+        "clock": 1694120927,
+        "data": {
+            "Timestamp": 1694120927,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694120927,
+        "data": {
+            "Timestamp": 1694120927,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694122962,
+        "data": {
+            "Timestamp": 1694122962,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1694122962,
+        "data": {
+            "Timestamp": 1694122962,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 98
+        }
+    },
+    {
+        "clock": 1694122962,
+        "data": {
+            "Timestamp": 1694122962,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1685,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694122962,
+        "data": {
+            "Timestamp": 1694122962,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2335,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694122962,
+        "data": {
+            "Timestamp": 1694122962,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 176,
+            "DirectionMax": 176
+        }
+    },
+    {
+        "clock": 1694122962,
+        "data": {
+            "Timestamp": 1694122962,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694122962,
+        "data": {
+            "Timestamp": 1694122962,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694038386,
+        "data": {
+            "Timestamp": 1694124786,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1694038386,
+        "data": {
+            "Timestamp": 1694124786,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 98
+        }
+    },
+    {
+        "clock": 1694038386,
+        "data": {
+            "Timestamp": 1694124786,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1685,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694038386,
+        "data": {
+            "Timestamp": 1694124786,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2335,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694038386,
+        "data": {
+            "Timestamp": 1694124786,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 158,
+            "DirectionMax": 158
+        }
+    },
+    {
+        "clock": 1694038386,
+        "data": {
+            "Timestamp": 1694124786,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694038386,
+        "data": {
+            "Timestamp": 1694124786,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694040492,
+        "data": {
+            "Timestamp": 1694126892,
+            "Expires": 21600,
+            "EventType": 7,
+            "Location": "BERLIN"
+        }
+    },
+    {
+        "clock": 1694040492,
+        "data": {
+            "Timestamp": 1694126892,
+            "Expires": 21600,
+            "EventType": 9,
+            "Humidity": 98
+        }
+    },
+    {
+        "clock": 1694040492,
+        "data": {
+            "Timestamp": 1694126892,
+            "Expires": 21600,
+            "EventType": 3,
+            "Temperature": 1685,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694040492,
+        "data": {
+            "Timestamp": 1694126892,
+            "Expires": 86400,
+            "EventType": 3,
+            "Temperature": 2335,
+            "DewPoint": -32768
+        }
+    },
+    {
+        "clock": 1694040492,
+        "data": {
+            "Timestamp": 1694126892,
+            "Expires": 21600,
+            "EventType": 2,
+            "SpeedMin": 1,
+            "SpeedMax": 1,
+            "DirectionMin": 158,
+            "DirectionMax": 158
+        }
+    },
+    {
+        "clock": 1694040492,
+        "data": {
+            "Timestamp": 1694126892,
+            "Expires": 21600,
+            "EventType": 1,
+            "Type": 0,
+            "Amount": 0
+        }
+    },
+    {
+        "clock": 1694040492,
+        "data": {
+            "Timestamp": 1694126892,
+            "Expires": 21600,
+            "EventType": 8,
+            "Amount": 0
+        }
+    }
+]
